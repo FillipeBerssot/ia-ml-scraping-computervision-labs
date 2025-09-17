@@ -14,8 +14,7 @@ https://colab.research.google.com/drive/1hhowOs12gUiIKeVFFQctOpyhdMdJ0qpH#scroll
 3. Se rodar local: `pip install -r requirements.txt` e abra o `.ipynb`.
 
 ## Resultados
-- **Regressão:** MAE=… | RMSE=… | R²=…  
-- **Classificação:** Acc=… | Precision=… | Recall=… | F1=…  
+- **Regressão:** MAE = ~49.080 | RMSE = ~67.814 | R² = 0.649 
 - **CV:** bordas (Canny) e equalização destacam detalhes; MOG2 mostra movimento (máscara binária).
 
 ## Notas
