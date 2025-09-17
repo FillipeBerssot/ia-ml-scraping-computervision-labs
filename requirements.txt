@@ -1,0 +1,10 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+opencv-python
+imageio
+requests
+beautifulsoup4
+gdown
+Pillow
