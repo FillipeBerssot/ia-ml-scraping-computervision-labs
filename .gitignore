@@ -1,0 +1,17 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Caches / SO
+__pycache__/
+*.pyc
+.DS_Store
+
+# Arquivos pesados
+*.mp4
+*.avi
+*.mov
+*.zip
+
+# Ambientes locais
+.env
+.venv/
